@@ -11,3 +11,11 @@ img{
     width: 100px;
     height: 100px;
 }
+
+.navbar{
+    text-align: center;
+} 
+
+.navbar__menu{
+    text-align: left;
+}
